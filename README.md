@@ -27,7 +27,7 @@ Stream millions of songs, discover podcasts, listen to audiobooks, import playli
 
 ## 🚀 Live Demo
 
-> **[ragaa.vercel.app](https://ragaa.vercel.app)** — open it on your phone or desktop and start streaming. Install it as a PWA for the full experience.
+> **[ragaa.vercel.app](https://ragaa.vercel.app)** — open it on your phone or desktop and start streaming. Check **[Installation Steps Here](https://github.com/caliboycoder/raga-public/tree/main#-install-raga-as-an-app)** and enjoy the full experience.
 
 ---
 
