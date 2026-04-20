@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
-  A full-featured, ad-free, privacy-first music streaming platform.<br/>
-  Stream millions of songs, discover podcasts, listen to audiobooks, and more — all from your browser.
+
+**Raga** is the browser-based app which is a full-featured, ad-free, privacy-first music streaming platform. It's a **FOSS, Spotify, JioSaavn inspired, ad-free, and offline-ready music streaming platform** built with **Next.js**.
+
+Experience high-performance music streaming with trending charts, albums, and playlists — all **privacy-respecting, and cross-platform**. 🎵 <br/>
+  Stream millions of songs, discover podcasts, listen to audiobooks, import playlists from Spotify, Apple Music & YouTube Music, and more — all from your browser on iPhone, Android or Windows devices.
 </p>
 
 ---
@@ -252,7 +255,47 @@
 
 ---
 
-## � Found a Bug?
+## 📲 Install Raga as an App
+
+Raga is now a **multi-platform music ecosystem**. You can install Raga directly from your browser with no app store needed.
+
+### 🍎 iPhone / iPad (Safari)
+1. Open **Safari** and visit the Raga website
+2. Tap the **Share** button (square with arrow pointing up) at the bottom of the screen
+3. Scroll down and tap **Add to Home Screen**
+4. Tap **Add** in the top-right corner
+5. Raga will now appear on your Home Screen like a native app
+
+> **Note:** You must use Safari, Chrome or FireFox on iOS to install this app.
+
+### 🤖 Android (Chrome / Edge / Brave)
+1. Open **Chrome** and visit the Raga website
+2. Tap the **3-dot menu** in the top-right corner
+3. Tap **Install app** or **Add to Home screen**
+4. Tap **Install** to confirm
+5. Raga will be added to your app drawer and home screen
+
+> **Tip:** You may also see a banner at the bottom of the page prompting you to install.
+
+### 💻 Windows / Mac / Linux Desktop (Chrome / Edge)
+1. Open **Chrome** or **Edge** and visit the Raga website
+2. Look for the **install icon** (a small monitor with a down-arrow) in the address bar on the right
+3. Click it and select **Install**
+4. Alternatively: click the **3-dot menu** → **Apps** → **Install this site as an app**
+5. Raga will open in its own window and appear in your Start Menu, Dock, or Applications folder
+
+> **Tip:** On Edge, you can also right-click the tab and select **Install Raga**.
+
+### ✨ Benefits of Installing
+- Launches from your home screen or app drawer like a native app
+- Runs in its own window without browser tabs or address bar
+- Offline support for downloaded songs, audiobooks, and episodes
+- Background audio with lock screen controls
+- Faster load times and a more immersive experience
+
+---
+
+## 🐛 Found a Bug?
 
 If you run into any issues, unexpected behavior, or bugs while using Raga, feel free to open a [GitHub Issue](https://github.com/caliboycoder/raga-public/issues). Please include steps to reproduce the problem and your device/browser info so we can look into it.
 
