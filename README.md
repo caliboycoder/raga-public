@@ -1,9 +1,17 @@
 <h1 align="center">🎵 Raga</h1>
 
 <p align="center">
+  <a href="https://ragaa.vercel.app"><img alt="Live Demo" src="https://img.shields.io/badge/🎵%20Live%20Demo-ragaa.vercel.app-1DB954?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+<p align="center">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Web%20%7C%20PWA-000000?logo=pwa&logoColor=white">
   <img alt="License" src="https://img.shields.io/badge/License-See%20LICENSE-blue">
   <img alt="Status" src="https://img.shields.io/badge/Status-Live-brightgreen">
+</p>
+
+<p align="center">
+  <strong>👉 <a href="https://ragaa.vercel.app">Try Raga live — no install needed</a></strong>
 </p>
 
 <p align="center">
@@ -11,8 +19,15 @@
   **Raga** is the browser-based **app** which is a full-featured, ad-free, privacy-first music streaming platform. It's a **FOSS, Spotify, JioSaavn inspired, ad-free, and offline-ready music streaming platform** built with **Next.js**.
 
 Experience high-performance music streaming with trending charts, albums, and playlists — all **privacy-respecting, and cross-platform**. 🎵 <br/>
-  Stream millions of songs, discover podcasts, listen to audiobooks, import playlists from Spotify, Apple Music & YouTube Music, and more — all from your browser on iPhone, Android or Windows devices.
+  
+Stream millions of songs, discover podcasts, listen to audiobooks, import playlists from Spotify, Apple Music & YouTube Music, and more — all from your browser on iPhone, Android or Windows devices..
 </p>
+
+---
+
+## 🚀 Live Demo
+
+> **[ragaa.vercel.app](https://ragaa.vercel.app)** — open it on your phone or desktop and start streaming. Install it as a PWA for the full experience.
 
 ---
 
