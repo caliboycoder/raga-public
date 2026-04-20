@@ -8,7 +8,7 @@
 
 <p align="center">
 
-**Raga** is the browser-based app which is a full-featured, ad-free, privacy-first music streaming platform. It's a **FOSS, Spotify, JioSaavn inspired, ad-free, and offline-ready music streaming platform** built with **Next.js**.
+  **Raga** is the browser-based **app** which is a full-featured, ad-free, privacy-first music streaming platform. It's a **FOSS, Spotify, JioSaavn inspired, ad-free, and offline-ready music streaming platform** built with **Next.js**.
 
 Experience high-performance music streaming with trending charts, albums, and playlists — all **privacy-respecting, and cross-platform**. 🎵 <br/>
   Stream millions of songs, discover podcasts, listen to audiobooks, import playlists from Spotify, Apple Music & YouTube Music, and more — all from your browser on iPhone, Android or Windows devices.
@@ -247,10 +247,31 @@ Experience high-performance music streaming with trending charts, albums, and pl
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="./screenshots/web2.png" width="800" />
+  <img src="./screenshots/fullbanner.png" alt="Raga Banner" width="100%" />
 </p>
+
+### 💻 Desktop & Tablet
+
 <p align="center">
-  <img src="./screenshots/web3.png" width="800" />
+  <img src="./screenshots/web1.png" alt="Raga on Desktop — Home" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/web2.png" alt="Raga on Desktop — Now Playing" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/web3.png" alt="Raga on Desktop — Library" width="90%" />
+</p>
+
+### 📱 Mobile
+
+<p align="center">
+  <img src="./screenshots/pic1.png" alt="Raga Mobile 1" width="18%" />
+  <img src="./screenshots/pic2.png" alt="Raga Mobile 2" width="18%" />
+  <img src="./screenshots/pic3.png" alt="Raga Mobile 3" width="18%" />
+  <img src="./screenshots/pic4.png" alt="Raga Mobile 4" width="18%" />
+  <img src="./screenshots/pic5.png" alt="Raga Mobile 5" width="18%" />
 </p>
 
 ---
