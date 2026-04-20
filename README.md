@@ -260,7 +260,7 @@ If you run into any issues, unexpected behavior, or bugs while using Raga, feel 
 
 ## ⚠️ Disclaimer
 
-> Raga is built for educational and research purposes. The app does not host or distribute any copyrighted media. All rights belong to their respective owners. Audiobooks are sourced from public domain collections.
+> Raga is built for educational and research purposes. The app does not host or distribute any copyrighted media. All rights belong to their respective owners. Audiobooks are sourced from public domain collections. Podcast metadata is sourced from publicly available directories.
 
 ## ⭐ Star the Repo
 
