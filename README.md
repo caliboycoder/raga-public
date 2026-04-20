@@ -252,11 +252,9 @@
 
 ---
 
-## 🚀 Deployment
+## � Found a Bug?
 
-Raga is deployed as a private production server. The source code and infrastructure are maintained separately.
-
-If you're interested in self-hosting or contributing, reach out via GitHub Issues.
+If you run into any issues, unexpected behavior, or bugs while using Raga, feel free to open a [GitHub Issue](https://github.com/caliboycoder/raga-public/issues). Please include steps to reproduce the problem and your device/browser info so we can look into it.
 
 ---
 
