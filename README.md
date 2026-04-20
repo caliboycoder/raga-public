@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Raga</h1>
 
 <p align="center">
-  <a href="https://ragaa.vercel.app"><img alt="Live Demo" src="https://img.shields.io/badge/🎵%20Live%20Demo-ragaa.vercel.app-1DB954?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://raga2141.vercel.app"><img alt="Live Demo" src="https://img.shields.io/badge/🎵%20Live%20Demo-raga2141.vercel.app-1DB954?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>👉 <a href="https://ragaa.vercel.app">Try Raga live — no install needed</a></strong>
+  <strong>👉 <a href="https://raga2141.vercel.app">Try Raga live — no install needed</a></strong>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Stream millions of songs, discover podcasts, listen to audiobooks, import playli
 
 ## 🚀 Live Demo
 
-> **[ragaa.vercel.app](https://ragaa.vercel.app)** — open it on your phone or desktop and start streaming. Check **[Installation Steps Here](https://github.com/caliboycoder/raga-public/tree/main#-install-raga-as-an-app)** and enjoy the full experience.
+> **[raga2141.vercel.app](https://raga2141.vercel.app)** — open it on your phone or desktop and start streaming. Check **[Installation Steps Here](https://github.com/caliboycoder/raga-public/tree/main#-install-raga-as-an-app)** and enjoy the full experience.
 
 ---
 
